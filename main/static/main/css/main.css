@@ -5,9 +5,9 @@ body {
 aside {
     float: left;
     background: #181818;
-    width: 23%;
+    width: 20%;
     padding: 2.5%;
-    height: 100vh;
+    height: 200vh;
     color: #fff;
     border-right: 5px solid #4d4d4d;
     text-decoration: none;
@@ -60,3 +60,11 @@ main .features {
 
 main .features h1 {font-size: 50px;}
 main .features p {max-width: 400px; margin: 20px auto;}
+
+.alert-warning {
+    float: left;
+    clear: both;
+    width: 455px;
+    margin: 20px 34%;
+    text-align: left;
+}
