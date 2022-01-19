@@ -7,7 +7,8 @@ aside {
     background: #181818;
     width: 20%;
     padding: 2.5%;
-    height: 200vh;
+    height: 100vh;
+    overflow: auto;
     color: #fff;
     border-right: 5px solid #4d4d4d;
     text-decoration: none;
@@ -67,4 +68,10 @@ main .features p {max-width: 400px; margin: 20px auto;}
     width: 455px;
     margin: 20px 34%;
     text-align: left;
+}
+
+form {
+    margin-left: 34%;
+    width: 500px;
+    margin-top: 50px;
 }
